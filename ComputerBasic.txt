@@ -24,7 +24,7 @@ ans: Mouse
 
 7. Which language is directly understood by the computer without a translation program?
 
-ans: Machine language.
+ans: Binary language .
 
 8. What are Input devices?
 
