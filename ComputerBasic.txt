@@ -1,0 +1,31 @@
+1. What is a Computer?
+
+ans : A computer is an electronic devices or that stores and process data in binary form. It is a machine that accept information (in the of digitised) and processes  it is accordance with a programme, piece of software, or set of instruction that specify how the information should be handled.
+
+2.  What is RAM?
+
+ans : RAM (Random access memory) is Primary memory. It is volatile means the information kept in RAM while the computer is running, but is erased when the machine is powered off . The operating system and other files are frequently loaded from HDD or SSD into Ram when the computer restarted.
+
+3. Where is data stored in a computer?
+
+ans: In computer data is stored in Hard-Disk drive or Solid-State Drive
+
+4. What is that input device used to type text and numbers on a document in the computer system?
+
+ans: Keyboard
+
+5. What are the output devices?
+
+ans: The output devices are moniter, printer, speaker, plotter, etc
+
+6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+
+ans: Mouse
+
+7. Which language is directly understood by the computer without a translation program?
+
+ans: Machine language.
+
+8. What are Input devices?
+
+ans : Input devices are keyboard , mouse, scanner, joystick, etc
